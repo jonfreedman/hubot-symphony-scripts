@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/symphonyoss/hubot-symphony-scripts.git"
+    "url": "git://github.com/jonfreedman/hubot-symphony-scripts.git"
   },
   "keywords": [
     "symphonyoss",
@@ -20,9 +20,9 @@
   "author": "Jon Freedman",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/symphonyoss/hubot-symphony-scripts/issues"
+    "url": "https://github.com/jonfreedman/hubot-symphony-scripts/issues"
   },
-  "homepage": "https://github.com/symphonyoss/hubot-symphony-scripts",
+  "homepage": "https://github.com/jonfreedman/hubot-symphony-scripts",
   "dependencies": {
   },
   "devDependencies": {
