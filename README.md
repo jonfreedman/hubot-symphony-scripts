@@ -3,6 +3,7 @@
 Some example Symphony scripts for hubot
 
 [![Build Status](https://travis-ci.org/jonfreedman/hubot-symphony-scripts.svg?branch=master)](https://travis-ci.org/jonfreedman/hubot-symphony-scripts)
+[![Coverage Status](https://coveralls.io/repos/github/jonfreedman/hubot-symphony-scripts/badge.svg?branch=master)](https://coveralls.io/github/jonfreedman/hubot-symphony-scripts)
 
 ## Installation
 
