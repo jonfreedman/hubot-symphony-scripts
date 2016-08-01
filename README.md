@@ -2,6 +2,8 @@
 
 Some example Symphony scripts for hubot
 
+[![Build Status](https://travis-ci.org/jonfreedman/hubot-symphony-scripts.svg?branch=master)](https://travis-ci.org/jonfreedman/hubot-symphony-scripts)
+
 ## Installation
 
 In hubot project repo, run:
