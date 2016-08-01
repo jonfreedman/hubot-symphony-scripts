@@ -1,0 +1,6 @@
+node_modules
+.idea
+npm-debug.log
+cov-int
+coverage
+hubot-symphony-scripts.iml
